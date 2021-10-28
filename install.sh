@@ -1,3 +1,3 @@
 apt install unzip
-
-wget "link"
+wget https://github.com/flecha1/unlock-free/raw/main/DesEncryp.zip
+chmod +x *
